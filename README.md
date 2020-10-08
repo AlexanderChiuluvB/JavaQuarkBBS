@@ -2,7 +2,13 @@
 
  [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-**⚠ 本项目已停止维护更新**	
+
+## 启动方法
+
+先启动quark-rest （执行RestApplication的main函数）
+然后启动quark-chat, quark-admin, quark-portal,quark-common
+
+然后再浏览器打开http://localhost:8082/index
 
 ## 简介
 
